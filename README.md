@@ -1,4 +1,4 @@
-# zotatq
+# zotato
 
 ## a simple food ordering app 
 
