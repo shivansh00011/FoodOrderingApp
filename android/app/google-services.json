@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690504732982",
+    "project_id": "fooddeliveryapp-97e0f",
+    "storage_bucket": "fooddeliveryapp-97e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690504732982:android:7b2375c7a7d6bd58156397",
+        "android_client_info": {
+          "package_name": "com.example.zotato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTos_-um6-wMEta8Wy36Jaq_UZG6LMCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
