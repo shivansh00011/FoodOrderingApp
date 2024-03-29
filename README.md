@@ -32,7 +32,9 @@ To install and run this project locally, follow these steps:
 ```
 
 2. Navigate to the project directory.
+
 3. Ensure you have Flutter installed.
+
 4. Set up Firebase:
 * Create a Firebase project at Firebase Console.
 
